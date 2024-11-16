@@ -10,12 +10,19 @@ Do some research on semantic and non-semantic elements and share your findings. 
 * The benefits of using semantic tags (when possible)
 
 ### Response 1
+    Some examples of semantic tags are <header>,<footer>, <article>, <section>, <aside>, and <nav> which are all used to describe their purpose in ways that both the devloper and the web page can clearly understand.
+
+    Some examples of non-semantic tags are <div> <span>, <b>, <i>, <hr>, and <font> which doesn't express what content is held within them. These tages are meant for styling purposes which is one of the main things that set them apart from semantic tags.
+
+    The benefits of using semantic tags is a more effecient layout due to how easy it is to understand. It also makes it more easy to organize and manage especially for allowing screen readers.
 
 ## Prompt 2
 
 Do some research on accessibility. What are some ways to make your website more accessible? Explain why it is important for developers to create websites that meet accessibility standards.
 
 ### Response 2
+
+The goal of web accessibility is to ensure that all users, including those using assistive technologies like screen readers, voice commands, or alternative input devices, can access and interact with web content.
 
 ## Prompt 3
 
@@ -28,6 +35,8 @@ It is possible to add "inline" CSS styles to our html elements using the `style`
 While this is possible, it is a best practice to instead write styles in a separate CSS file. Provide at least one argument for why it _might_ be considered useful to write inline styles, and then provide a more compelling argument for writing styles in a separate CSS file.
 
 ### Response 3
+
+
 
 ## Prompt 4
 
